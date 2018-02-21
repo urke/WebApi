@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Urke\\Desktop\\Copy\\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\\SIENN.Services\\SIENN.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Urke\\Desktop\\Web.API Project\\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\\SIENN.Services\\SIENN.Services.csproj",
       "projectName": "SIENN.Services",
-      "projectPath": "C:\\Users\\Urke\\Desktop\\Copy\\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\\SIENN.Services\\SIENN.Services.csproj",
+      "projectPath": "C:\\Users\\Urke\\Desktop\\Web.API Project\\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\\SIENN.Services\\SIENN.Services.csproj",
       "packagesPath": "C:\\Users\\Urke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Urke\\Desktop\\Copy\\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\\SIENN.Services\\obj\\",
+      "outputPath": "C:\\Users\\Urke\\Desktop\\Web.API Project\\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\\SIENN.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

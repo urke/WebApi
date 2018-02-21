@@ -65,3 +65,16 @@ C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16
 C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.AssemblyInfo.cs
 C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.dll
 C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.DbAccess.deps.json
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.DbAccess.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.DbAccess.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.DAL.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.Models.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.DAL.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\bin\Debug\netcoreapp2.0\SIENN.Models.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.csprojResolveAssemblyReference.cache
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.AssemblyInfoInputs.cache
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.AssemblyInfo.cs
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DbAccess\obj\Debug\netcoreapp2.0\SIENN.DbAccess.pdb

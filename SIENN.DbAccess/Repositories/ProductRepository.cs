@@ -114,10 +114,10 @@ namespace SIENN.DbAccess
         /// <returns> List of matched products </returns>
         public IEnumerable<Product> DelivaryDateThisMonth()
         {
-            DateTime today = new DateTime();
+            int today = DateTime.Now.Month;
 
             var products = _context.Products.Where(p => p.DelivaryDate.Month
-                                                        .Equals(today.Month));
+                                                        .Equals(today));
 
             return products;
         }

@@ -42,3 +42,14 @@ C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16
 C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.AssemblyInfo.cs
 C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.dll
 C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\bin\Debug\netcoreapp2.0\SIENN.DAL.deps.json
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\bin\Debug\netcoreapp2.0\SIENN.DAL.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\bin\Debug\netcoreapp2.0\SIENN.DAL.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\bin\Debug\netcoreapp2.0\SIENN.Models.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\bin\Debug\netcoreapp2.0\SIENN.Models.pdb
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.AssemblyInfoInputs.cache
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.AssemblyInfo.cs
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.dll
+C:\Users\Urke\Desktop\Web.API Project\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.DAL\obj\Debug\netcoreapp2.0\SIENN.DAL.pdb
