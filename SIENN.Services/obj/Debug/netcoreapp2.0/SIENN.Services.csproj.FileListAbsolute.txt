@@ -1,0 +1,36 @@
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.deps.json
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csproj.CoreCompileInputs.cache
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfoInputs.cache
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfo.cs
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\BookService-master\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csprojResolveAssemblyReference.cache
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.deps.json
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csproj.CoreCompileInputs.cache
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfoInputs.cache
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfo.cs
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\Core2Recruitment-master\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csprojResolveAssemblyReference.cache
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.deps.json
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csproj.CoreCompileInputs.cache
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfoInputs.cache
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfo.cs
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\Core2Recruitment-master - Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csprojResolveAssemblyReference.cache
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.deps.json
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\bin\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csproj.CoreCompileInputs.cache
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfoInputs.cache
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.AssemblyInfo.cs
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.pdb
+C:\Users\Urke\Desktop\Copy\Core2Recruitment-master-fadc1d35b0bfaa70f0a39418f7b16e974d422af1\SIENN.Services\obj\Debug\netcoreapp2.0\SIENN.Services.csprojResolveAssemblyReference.cache
